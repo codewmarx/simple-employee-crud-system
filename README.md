@@ -6,8 +6,19 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-A simple Employee Management System built with **PHP**, **MySQL**, and **Bootstrap**.  
-This project demonstrates basic **CRUD (Create, Read, Update, Delete)** operations, user authentication, and role management (Admin & Employee).
+# Employee Management System (CRUD)
+
+This project is part of our **3rd Year – IT Elective 2 (Advanced Database Systems)** course requirement.  
+It is a simple Employee Management System built with **PHP**, **MySQL**, and **Bootstrap**.
+
+## 📘 Applied SQL Principles
+
+- **Indexes & Primary Keys** – for efficient lookups and unique identifiers  
+- **Unique Constraints** – preventing duplicate usernames in the `logintab` table  
+- **Auto Increment Handling** – automatic ID generation for tables  
+- **Foreign Key Constraints** – enforcing referential integrity across related tables  
+- **Cascade Deletes** – ensuring dependent records are removed consistently  
+
 
 ## 📸 Preview
 
