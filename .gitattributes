@@ -4,6 +4,6 @@
 # Tell GitHub to ignore SQL files in language stats
 *.sql linguist-detectable=false
 
-# Optional: also force CSS/JS recognition
+# Force CSS/JS recognition
 *.css linguist-language=CSS
 *.js linguist-language=JavaScript
