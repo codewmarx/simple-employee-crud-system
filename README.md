@@ -8,7 +8,7 @@
 </p>
 
 This project was part of our **3rd Year – IT Elective 2 (Advanced Database Systems)** course requirement.  
-It is a simple Employee Management System built with **Javascript**,**PHP**, **MySQL**, and **Bootstrap**.
+It is a simple Employee Management System built with **Javascript**, **PHP**, **MySQL**, and **Bootstrap**.
 
 ## 📘 Applied SQL Principles
 
