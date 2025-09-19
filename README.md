@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-This project is part of our **3rd Year – IT Elective 2 (Advanced Database Systems)** course requirement.  
+This project was part of our **3rd Year – IT Elective 2 (Advanced Database Systems)** course requirement.  
 It is a simple Employee Management System built with **PHP**, **MySQL**, and **Bootstrap**.
 
 ## 📘 Applied SQL Principles
