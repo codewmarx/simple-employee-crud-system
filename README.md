@@ -11,11 +11,11 @@ This project demonstrates basic **CRUD (Create, Read, Update, Delete)** operatio
 
 ## 📸 Preview
 
-![Admin Dashboard](assets/img/admin-view.jpg)  
-*Admin Dashboard*
-
 ![Employee Dashboard](assets/img/employee-dashboard.jpg)  
 *Employee Dashboard*
+
+![Admin Dashboard](assets/img/admin-view.jpg)  
+*Admin Dashboard*
 
 ![Employee CRUD](assets/img/employee-crud.jpg)  
 *Employee Management (CRUD)*
