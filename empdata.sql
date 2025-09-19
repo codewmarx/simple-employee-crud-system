@@ -38,12 +38,11 @@ CREATE TABLE `employee` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Dumping data for table `employee`
+-- Dumping dummy data for table `employee`
 --
 
 INSERT INTO `employee` (`id`, `name`, `email`, `address`, `dob`, `age`, `login_id`) VALUES
 (70, 'Merit Mcmillan', 'merit@mailinator.com', 'Texas, USA', '2000-10-12', 24, 1),
-(71, 'Mark Anthony', 'marko@gmail.com', 'Balangiga', '2003-11-29', 21, 1),
 (72, 'Leonard Rowland', 'rowland@mailinator.com', 'Reiciendis dolore in', '2007-04-28', 17, 2),
 (73, 'Elton Leonard', 'sysytudi@mailinator.com', 'Saepe consequat Con', '1996-11-16', 28, 1),
 (74, 'Dominic Boone', 'laqew@mailinator.com', 'Nisi quas eos volup', '1986-07-11', 38, 1);
@@ -84,7 +83,6 @@ CREATE TABLE `employee_details` (
 
 INSERT INTO `employee_details` (`id`, `employee_id`, `salary`, `department`, `job_title`) VALUES
 (20, 70, 800000.00, 'Delectus', 'Ullam quam'),
-(21, 71, 15000.00, 'CSS Department', 'IT Student'),
 (22, 72, 700000.00, 'Commodi culpa', 'Exercitationem'),
 (23, 73, 23.00, 'Et dolore corrupti ', 'Molestiae est provid'),
 (24, 74, 83.00, 'Non qui minim est au', 'Consequatur Accusam');
@@ -108,7 +106,7 @@ CREATE TABLE `logintab` (
 --
 
 INSERT INTO `logintab` (`user_id`, `username`, `password`, `role`, `created_at`) VALUES
-(1, 'marko', 'marko123', 'employee', '2024-12-16 16:16:27'),
+(1, 'marko', 'employee123', 'employee', '2024-12-16 16:16:27'),
 (2, 'admin', 'admin123', 'admin', '2024-12-17 13:33:24');
 
 --
