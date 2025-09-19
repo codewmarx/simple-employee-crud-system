@@ -52,7 +52,7 @@ Make sure you have the following installed:
 
 ### 2. Clone or Download the Repository
 bash
-git clone https://github.com/codewmarx/employee-management-system.git
+git clone https://github.com/codewmarx/simple-employee-crud-system.git
 Or download as ZIP and extract into your server’s htdocs folder.
 
 ---
